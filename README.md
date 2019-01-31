@@ -7,9 +7,13 @@ Use this JIRA webhook to create a simple bot. Simply add one of the following co
 
 ### @bot subtract
 
+![subtract](img/subtract.png)
+
 - take story points from new issue
 - subtract story points from epic
 - add comment to newly created issue
+
+![comment](img/comment.png)
 
 ## JIRA configuration
 
